@@ -29,7 +29,6 @@ namespace Tests
 			SenukaiLoginPage.takeAScreenSchot();
 
             Assert.AreEqual(ExpectedResult,LoginResult);
-
 		}
 	}
 }
